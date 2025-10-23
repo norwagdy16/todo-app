@@ -1,1 +1,1 @@
-toto app made with react native
+todo app made with react native
